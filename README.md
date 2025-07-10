@@ -128,7 +128,7 @@ Search took: 856.386557ms
 Final prediction: Voilà by André Rieu , score: 5390686.00
 ```
 
-## Database Options 👯‍♀️ 
+### Database Options 👯‍♀️ 
 This application uses SQLite as the default database, but you can switch to MongoDB if preferred.   
 
 #### Using MongoDB
